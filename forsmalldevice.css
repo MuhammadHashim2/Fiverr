@@ -1,0 +1,56 @@
+div.links{
+    margin-right: 12px;
+    font-weight: 600;
+}
+div.logo {
+    margin-left: 32px;
+    margin-right: 30px;
+}
+center{
+    margin-left: 30px;
+    width: 1200px;
+    height: 410px;
+}
+span.thirlink{
+    padding-right: 20px;
+}
+span.filink{
+    padding-right: 30px;
+}
+span.selink{
+    padding-right: 30px;
+}
+div.boxes{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+div.box{
+    margin-right: 8px;
+    display: inline-block;
+    width: 120.25px;
+    padding: 15px;
+    height: 88px;
+    background: #fff;
+    border: 1px solid #fff;
+    border-radius: 16px;
+    box-shadow: 0 0 .880517px rgba(0,0,0,.029),0 0 2.29197px rgba(0,0,0,.03),0 0 5.52px rgba(0,0,0,.054),0 0 11px rgba(0,0,0,.09);
+
+}
+div.box:hover{
+    background: radial-gradient(63.44% 63.44% at 50% 50%, #c2ffe2 0, #fff 100%), #fff;
+    cursor: pointer;
+}
+p.parabox{
+    margin-top: 10px;
+    line-height: 22px;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.sticky + .content {
+    padding-top: 60px;
+}
