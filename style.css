@@ -111,6 +111,7 @@ input[type="search"]{
     border-bottom-right-radius: 0;
     border-left: 0;
     font-size: 16px;
+    outline: none;
     margin-left: 22px;
 }
 div.ni{
